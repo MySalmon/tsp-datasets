@@ -5,6 +5,6 @@ Symmetric traveling salesman problem (TSP)
 
 Given a set of n nodes and distances for each pair of nodes, find a roundtrip of minimal total length visiting each node exactly once. The distance from node i to node j is the same as from node j to node i.
 
-[TSP data](.\tsplib)
+[TSP data](tsp)
 
-[Best known solutions for symmetric TSPs](.\tsplib\stsp-sol.html)
+[Best known solutions for symmetric TSPs](stsp-sol.html)
